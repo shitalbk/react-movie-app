@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-####The project is hosted locally and the project demo is shown below:
+###The project is hosted locally and the project demo is shown below:
 
 ###### The project allows you to search your favourite movie in the search box, add to favourite by clicking the add to favourites button and allows to remove the favourite after clicking the remove from favuorites button.
 
