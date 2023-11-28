@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-# The project is hosted locally and the project demo is shown below:
+## The project is hosted locally and the project demo is shown below:
+
+### The project allows you to search your favourite movie in the search box, add to favourite by clicking the add to favourites button and allows to remove the favourite after clicking the remove from favuorites button.
+
 
 https://github.com/shitalbk/react-movie-app/assets/10496982/1016a8b5-795c-4e45-b35a-70b1b531d237
 
